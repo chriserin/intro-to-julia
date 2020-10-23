@@ -23,3 +23,9 @@ To run the notebook server:
 julia> import Pluto
 julia> Pluto.run()
 ```
+
+## Open the notebook
+
+This repo has a notebook `./julianotebook.jl` that you should be able to open.
+
+When you open it, it should take 5 mins to install all the dependencies.
